@@ -3,7 +3,7 @@
 This program asks the user for the name of a file
 The user enters the name of a text file that's contents appear like
 
-17 24 1 8 15
+17 24 1 8 15 \n
 23 5 7 14 16
 4 6 13 20 22
 10 12 19 21 3
