@@ -14,7 +14,7 @@ whether the matrix is a magic square (no repeating numbers, all diagonals, horiz
 
 if the program is given a proper magic square then the output appears like so:
 
-######################################################################################################################
+######################################################################################################################  <br />
 Enter a file to open: 
 myfile.txt
 
@@ -31,7 +31,7 @@ is a magic square of order 5. The magic constant is 65.
 
 if the matrix given is not a magic square the output appears like this:
 
-######################################################################################################################
+######################################################################################################################  <br />
 Enter a file to open: 
 myfile.txt
 
