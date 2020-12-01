@@ -3,11 +3,11 @@
 This program asks the user for the name of a file
 The user enters the name of a text file that's contents appear like
 
-17 24 1 8 15 \n
-23 5 7 14 16
-4 6 13 20 22
-10 12 19 21 3
-11 18 25 2 9
+17 24 1 8 15 <br />
+23 5 7 14 16 <br />
+4 6 13 20 22 <br />
+10 12 19 21 3 <br />
+11 18 25 2 9 <br />
 
 The program then reads the file into a 2D array and determines 
 whether the matrix is a magic square (no repeating numbers, all diagonals, horizontal and vertical lines add up to the same number)
@@ -20,11 +20,11 @@ myfile.txt
 
 The combination of numbers 
 
-17 24 1 8 15 
-23 5 7 14 16 
-4 6 13 20 22 
-10 12 19 21 3 
-11 18 25 2 9 
+17 24 1 8 15 <br />
+23 5 7 14 16 <br /> 
+4 6 13 20 22 <br /> 
+10 12 19 21 3 <br /> 
+11 18 25 2 9 <br /> 
 
 is a magic square of order 5. The magic constant is 65.
 ######################################################################################################################
@@ -37,11 +37,11 @@ myfile.txt
 
 The combination of numbers 
 
-17 24 1 8 15 
-23 5 7 14 16 
-4 6 13 20 22 
-10 12 19 21 3 
-11 18 25 25 9 
+17 24 1 8 15 <br /> 
+23 5 7 14 16 <br /> 
+4 6 13 20 22 <br /> 
+10 12 19 21 3 <br /> 
+11 18 25 25 9 <br /> 
 
 is not a magic square.
 ######################################################################################################################
